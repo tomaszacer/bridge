@@ -1,4 +1,6 @@
-:v_game: ../images/wnes_1.png
+== Game 1
+
+:v_game: image:../images/wnes_1.png[]
 
 :v_hand_w: image:../images/spades.png[] 6 + 
 image:../images/hearts.png[] AK83 + 
@@ -19,3 +21,9 @@ image:../images/clubs.png[Alt text] J5
 image:../images/hearts.png[] QJ1074 +
 image:../images/diamonds.png[] 72 +
 image:../images/clubs.png[Alt text] K762
+
+|=======================
+||{v_hand_n}|
+|{v_hand_w}|{v_game}|{v_hand_e}
+||{v_hand_s}|
+|=======================
