@@ -1,6 +1,21 @@
-== test
+:v_game: ../images/wnes_1.png
 
-image::images/clubs.png
-image::images/diamonds.png
-image::images/hearts.png
-image::images/spades.png
+:v_hand_w: image:../images/spades.png[] 6 + 
+image:../images/hearts.png[] AK83 + 
+image:../images/diamonds.png[] K96 + 
+image:../images/clubs.png[Alt text] Q10984
+
+:v_hand_n: image:../images/spades.png[] AK73 + 
+image:../images/hearts.png[] 965 + 
+image:../images/diamonds.png[] Q1043 + 
+image:../images/clubs.png[Alt text] A3
+
+:v_hand_e: image:../images/spades.png[] QJ9542 + 
+image:../images/hearts.png[] 2 + 
+image:../images/diamonds.png[] AJ85 + 
+image:../images/clubs.png[Alt text] J5
+
+:v_hand_s: image:../images/spades.png[] 108 +
+image:../images/hearts.png[] QJ1074 +
+image:../images/diamonds.png[] 72 +
+image:../images/clubs.png[Alt text] K762
